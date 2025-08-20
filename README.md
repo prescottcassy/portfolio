@@ -20,5 +20,5 @@ Want to connect or collab?
 * [LinkedIn](https://www.linkedin.com/in/cassy-prescott/)
 * Email: cassy.cormier@icloud.com
 
-# Credits
+## Credits
 Built with love, late nights, Youtube University, and a vision for sustainable tech. Inspired by amazing mentors who've helped me grow. 
